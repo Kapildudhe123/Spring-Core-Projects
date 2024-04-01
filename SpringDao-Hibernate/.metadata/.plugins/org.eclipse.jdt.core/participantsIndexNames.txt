@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+D:\Rays\Workspace\Spring WorkSpace\SpringDao-Hibernate\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1794831800.index
+\SpringDao_Hibernate\src\main\resources

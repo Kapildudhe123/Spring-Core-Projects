@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\Rays\Workspace\Spring WorkSpace\SpringDao-JDBC\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3046177146.index
+2670419227.index
+825566123.index
+4230680032.index
+709735354.index
+916789814.index

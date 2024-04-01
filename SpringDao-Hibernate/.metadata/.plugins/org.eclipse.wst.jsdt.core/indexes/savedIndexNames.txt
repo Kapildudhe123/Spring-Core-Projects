@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\Rays\Workspace\Spring WorkSpace\SpringDao-Hibernate\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+58282398.index
+1662640936.index
+2297090841.index
+3989313815.index
+3812477794.index
+955945682.index

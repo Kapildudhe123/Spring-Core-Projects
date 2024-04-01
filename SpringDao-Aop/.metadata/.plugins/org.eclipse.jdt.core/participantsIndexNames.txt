@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+D:\Rays\Workspace\Spring WorkSpace\SpringDao-Aop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1464380002.index
+\SpringDao-AOP\src\main\resources

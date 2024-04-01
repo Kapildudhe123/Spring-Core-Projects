@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.rays.dao.UserDAOIMPl&apos; to &apos;UserDAOHibImpl&apos;&#x0D;&#x0A;- Original project: &apos;SpringDao_Hibernate&apos;&#x0D;&#x0A;- Original element: &apos;com.rays.dao.UserDAOIMPl&apos;&#x0D;&#x0A;- Renamed element: &apos;com.rays.dao.UserDAOHibImpl&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;UserDAOIMPl&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.rays.dao{UserDAOIMPl.java[UserDAOIMPl" matchStrategy="1" name="UserDAOHibImpl" qualified="false" references="true" similarDeclarations="false" stamp="1711465097166" textual="false" version="1.0"/>
+</session>
